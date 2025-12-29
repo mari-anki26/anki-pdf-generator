@@ -1,0 +1,7 @@
+streamlit
+pandas
+pypdf2
+sudachipy
+sudachidict_core
+pykakasi
+openpyxl
